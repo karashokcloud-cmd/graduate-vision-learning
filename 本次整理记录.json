@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-30",
+  "thread": "01a17c45-8fa6-72b1-b2e1-dceb6815b66d",
+  "title": "碳纤维数据摸底与首次分类训练",
+  "original_project": "机器视觉检测课程汇报",
+  "new_native_project_created": false,
+  "sidebar_category": "科研与知识学习",
+  "original_single_file_sha256": "1f3b0b825ade1c3b99925ad053907cafb341be00519a934a3404a7f05b678764",
+  "source_modules": [
+    "model.py",
+    "data.py",
+    "engine.py",
+    "plots.py",
+    "train.py"
+  ],
+  "training_launched": false,
+  "github_pushed": false,
+  "data_or_environment_moved": false,
+  "legacy_files_moved": [
+    "01_认识图像.m",
+    "数据摸底与学习路线.md",
+    "transcribe_audio.py",
+    "transcribe_review.py"
+  ],
+  "verification": [
+    "original backup SHA256 matches",
+    "model parameters and evaluation output unchanged",
+    "data split matches previous 30-epoch run",
+    "entry --help passes",
+    "four legacy files retain original SHA256"
+  ]
+}

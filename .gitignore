@@ -11,3 +11,7 @@ datasets/
 *.pth
 *.zip
 *.7z
+
+本地备份/
+*.m4a
+*.mp4

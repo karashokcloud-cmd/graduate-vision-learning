@@ -1,0 +1,8 @@
+{
+  "binary_data": "D:\\ChatGPT\\缺陷检测研究\\数据\\carbon-look\\carbon-binary",
+  "max_epochs": 30,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "seed": 20261029,
+  "early_stopping_patience": 7
+}
